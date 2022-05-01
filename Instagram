@@ -1,0 +1,3 @@
+Rect (20,20,160,160, fill=None, border=gradient('darkOrchid', 'red', 'orange', start='top-right'), borderWidth=15)
+Circle (100,100,40, fill=None, border=gradient('darkOrchid', 'orange', start='top-right'), borderWidth=15)
+Circle (150,50,10, fill='darkOrchid')
